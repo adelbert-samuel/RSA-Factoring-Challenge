@@ -142,13 +142,3 @@ julien@ubuntu:~/RSA Factoring Challenge$ cat tests/rsa-16
 julien@ubuntu:~/RSA Factoring Challenge$ ./rsa tests/rsa-16
 2497885147362973=49979141*49978553
 julien@ubuntu:~/RSA Factoring Challenge$ [...]
-```
----
-
-
-
-
-
-## Authur
-
-- **Gordon Enam Kudzo** - [senam98](https://github.com/senam98)# RSA-Factoring-Challenge
